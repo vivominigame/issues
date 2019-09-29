@@ -6,5 +6,6 @@
 2. [调试环境问题](https://github.com/vivominigame/issues/issues/2)
 3. [调试功能问题](https://github.com/vivominigame/issues/issues/3)
 4. [测试上线问题](https://github.com/vivominigame/issues/issues/4)
+5. [账户/支付问题](https://github.com/vivominigame/issues/issues/5)
 
 问题反馈入口请点击[->进入<-](https://github.com/vivominigame/issues/issues/new)

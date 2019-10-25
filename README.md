@@ -45,3 +45,7 @@ https://minigame.vivo.com.cn/documents/#/lesson/question/question-environment?id
 启动时长优化
 
 https://minigame.vivo.com.cn/documents/#/lesson/minigame-test-table
+
+如何生成release签名
+
+https://minigame.vivo.com.cn/documents/#/lesson/base/start?id=%e5%a6%82%e4%bd%95%e7%94%9f%e6%88%90release%e7%ad%be%e5%90%8d

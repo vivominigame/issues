@@ -18,6 +18,10 @@
 
 https://minigame.vivo.com.cn/documents/#/lesson/question/question-environment?id=q3%ef%bc%9avivo%e6%89%8b%e6%9c%ba%e5%bf%ab%e5%ba%94%e7%94%a8%e5%ae%89%e8%a3%85%e5%a4%b1%e8%b4%a5%ef%bc%9f
 
+快应用真机连PC调试相关
+
+https://minigame.vivo.com.cn/documents/#/lesson/base/start?id=%e5%a6%82%e4%bd%95%e8%b0%83%e8%af%95
+
 广告调用问题
 
 https://minigame.vivo.com.cn/documents/#/lesson/open-ability/ad?id=%e5%b9%bf%e5%91%8a%e6%8e%a5%e5%85%a5%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9

@@ -31,6 +31,7 @@ https://minigame.vivo.com.cn/documents/#/lesson/open-ability/ad?id=%e5%b9%bf%e5%
 https://minigame.vivo.com.cn/documents/#/lesson/question/question-account
 
 **审核打回**日志查看方法 
+
 **审核打回括号里面就是机型**
 
 https://minigame.vivo.com.cn/documents/#/lesson/dev/dev-log?id=%e5%ae%a1%e6%a0%b8%e6%89%93%e5%9b%9e%e6%97%a5%e5%bf%97%e6%9f%a5%e7%9c%8b%e8%b7%af%e5%be%84

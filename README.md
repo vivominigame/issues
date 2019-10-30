@@ -1,6 +1,6 @@
 # vivo小游戏问题反馈和统一回复入口
 
-小游戏开发文档入口，有入门教程，api，各个版本引擎apk下载地址[->进入<-](https://minigame.vivo.com.cn/documents/#/)
+小游戏开发文档入口，有入门教程，对引擎的支持，api，各个版本引擎apk下载地址[->进入<-](https://minigame.vivo.com.cn/documents/#/)
 
 问题反馈入口请点击[->进入<-](https://github.com/vivominigame/issues/issues/new)
 

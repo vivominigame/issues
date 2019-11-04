@@ -6,9 +6,11 @@
 
 很多问题都在最新版本已经解决了，注意遇到问题第一步：
 
-**检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本
-检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本
-检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本**
+**检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
+
+**检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
+
+**检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
 
 ## 通用问题整理
 

@@ -12,6 +12,9 @@
 
 **检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
 
+vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/download/engine)
+
+
 ## 通用问题整理
 
 1. [接入评估问题](https://github.com/vivominigame/issues/issues/1)

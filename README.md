@@ -25,7 +25,7 @@ vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/down
 4. [测试上线问题](https://github.com/vivominigame/issues/issues/4)
 5. [账户/支付问题](https://github.com/vivominigame/issues/issues/5)
 6. [小游戏开发调试问题](https://github.com/vivominigame/issues/issues/9)
-
+7. [审核被打回，没法复现bug](https://github.com/vivominigame/issues/issues/38)
 
 ## 常见问题分类
 

@@ -16,6 +16,7 @@
 
 vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/download/engine)
 
+账号目前上线了新账号，新账号目的是提升用户授权成功率，如果用户在其中一款小游戏授权新账号成功，接入新账号的小游戏将不会重新授权，可直接拿到用户信息，建议接入新账号https://minigame.vivo.com.cn/documents/#/api/service/newaccount
 
 ## 通用问题整理
 

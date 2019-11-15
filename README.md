@@ -16,7 +16,11 @@
 
 vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/download/engine)
 
-账号目前上线了新账号，新账号目的是提升用户授权成功率，如果用户在其中一款小游戏授权新账号成功，接入新账号的小游戏将不会重新授权，可直接拿到用户信息，建议接入新账号https://minigame.vivo.com.cn/documents/#/api/service/newaccount
+账号目前上线了新账号，新账号目的是提升用户授权成功率，如果用户在其中一款小游戏授权新账号成功，接入新账号的小游戏将不会重新授权，可直接拿到用户信息，建议接入新账号
+参考链接：https://minigame.vivo.com.cn/documents/#/api/service/newaccount
+
+开发者平台中提供了原生广告和其他广告的设计规范，请参考规范来设计和展示原生广告
+参考链接：https://minigame.vivo.com.cn/documents/#/ui/ad 
 
 ## 通用问题整理
 
@@ -39,8 +43,6 @@ https://minigame.vivo.com.cn/documents/#/lesson/question/question-environment?id
 https://minigame.vivo.com.cn/documents/#/lesson/base/start?id=%e5%a6%82%e4%bd%95%e8%b0%83%e8%af%95
 
 广告调用问题
-
-https://minigame.vivo.com.cn/documents/#/ui/ad 开发者平台中提供了原生广告和其他广告的设计规范，请参考规范来设计和展示原生广告
 
 https://minigame.vivo.com.cn/documents/#/lesson/open-ability/ad?id=%e5%b9%bf%e5%91%8a%e6%8e%a5%e5%85%a5%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9
 

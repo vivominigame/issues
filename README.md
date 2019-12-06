@@ -14,13 +14,10 @@
 
 **检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
 
+
 vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/download/engine)
 
-账号目前上线了新账号，新账号目的是提升用户授权成功率，如果用户在其中一款小游戏授权新账号成功，接入新账号的小游戏将不会重新授权，可直接拿到用户信息，建议接入新账号
-参考链接：https://minigame.vivo.com.cn/documents/#/api/service/newaccount
 
-开发者平台中提供了原生广告和其他广告的设计规范，请参考规范来设计和展示原生广告
-参考链接：https://minigame.vivo.com.cn/documents/#/ui/ad 
 
 ## 通用问题整理
 
@@ -31,6 +28,7 @@ vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/down
 5. [账户/支付问题](https://github.com/vivominigame/issues/issues/5)
 6. [vivo小游戏如何调试以及查看日志](https://github.com/vivominigame/issues/issues/9)
 7. [审核被打回，没法复现bug](https://github.com/vivominigame/issues/issues/38)
+8. [vivo小游戏平台怎么安装特定版本引擎或者调试器](https://github.com/vivominigame/issues/issues/17)
 
 ## 常见问题分类
 

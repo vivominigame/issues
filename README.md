@@ -29,6 +29,7 @@ vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/down
 6. [vivo小游戏如何调试以及查看日志](https://github.com/vivominigame/issues/issues/9)
 7. [审核被打回，没法复现bug](https://github.com/vivominigame/issues/issues/38)
 8. [vivo小游戏平台怎么安装特定版本引擎或者调试器](https://github.com/vivominigame/issues/issues/17)
+9. [广告相关问题](https://github.com/vivominigame/issues/issues/73)
 
 ## 常见问题分类
 

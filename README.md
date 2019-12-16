@@ -1,6 +1,4 @@
-# vivo小游戏问题反馈和统一回复入口
 
-问题反馈入口请点击[->进入<-](https://github.com/vivominigame/issues/issues/new)
 
 ## 提问必看
 

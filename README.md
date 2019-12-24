@@ -19,22 +19,14 @@
 
 **检查vivo引擎是否是最新版本，（cocos，laya，egret）等是否是最新版本，建议都升级到最新版本**
 
-
 vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/download/engine)
-
-
 
 ## 通用问题整理
 
-1. [接入评估问题](https://github.com/vivominigame/issues/issues/1)
-2. [调试环境问题](https://github.com/vivominigame/issues/issues/2)
-3. [调试功能问题](https://github.com/vivominigame/issues/issues/3)
-4. [测试上线问题](https://github.com/vivominigame/issues/issues/4)
-5. [账户/支付问题](https://github.com/vivominigame/issues/issues/5)
-6. [vivo小游戏如何调试以及查看日志](https://github.com/vivominigame/issues/issues/9)
-7. [审核被打回，没法复现bug](https://github.com/vivominigame/issues/issues/38)
-8. [vivo小游戏平台怎么安装特定版本引擎或者调试器](https://github.com/vivominigame/issues/issues/17)
-9. [广告相关问题](https://github.com/vivominigame/issues/issues/73)
+1. [vivo小游戏如何调试以及查看日志](https://github.com/vivominigame/issues/issues/9)
+2. [审核被打回，没法复现bug](https://github.com/vivominigame/issues/issues/38)
+3. [vivo小游戏平台怎么安装特定版本引擎或者调试器](https://github.com/vivominigame/issues/issues/17)
+4. [广告相关问题](https://github.com/vivominigame/issues/issues/73)
 
 ## 常见问题分类
 

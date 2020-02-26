@@ -28,6 +28,8 @@ vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/down
 2. [审核被打回，没法复现bug](https://github.com/vivominigame/issues/issues/38)
 3. [vivo小游戏平台怎么安装特定版本引擎或者调试器](https://github.com/vivominigame/issues/issues/17)
 4. [广告相关问题](https://github.com/vivominigame/issues/issues/73)
+5. [游戏黑屏问题](https://github.com/vivominigame/issues/issues/92)
+
 
 ## 常见问题分类
 

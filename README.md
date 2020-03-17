@@ -41,15 +41,12 @@ https://minigame.vivo.com.cn/documents/#/lesson/question/question-environment?id
 
 快应用真机连PC调试相关
 
-https://minigame.vivo.com.cn/documents/#/lesson/base/start?id=%e5%a6%82%e4%bd%95%e8%b0%83%e8%af%95
+https://minigame.vivo.com.cn/documents/#/lesson/dev/dev-chrome5
 
 广告调用问题
 
 https://minigame.vivo.com.cn/documents/#/lesson/open-ability/ad?id=%e5%b9%bf%e5%91%8a%e6%8e%a5%e5%85%a5%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a1%b9
 
-账户支付调用问题排查
-
-https://minigame.vivo.com.cn/documents/#/lesson/question/question-account
 
 **审核打回**日志查看方法 
 

@@ -20,7 +20,7 @@
 
 [laya2最新版本下载地址](https://ldc2.layabox.com/layadownload/?type=layaairide-LayaAir%20IDE%20)
 
-[egret最新版本下载地址](https://egret.com/downloads/engine.html)
+[egret最新版本下载地址](https://docs.egret.com/engine)
 
 vivo引擎版本历史[->进入<-](https://minigame.vivo.com.cn/documents/#/download/engine)
 
